@@ -1,6 +1,6 @@
 # My First Blog
 
-This is my **first website project**, created as a part of my cross-platform app development studies using **Html**, **CSS** and **JavaScript** . It showcases my interests and has an **about me** section.
+This is my **first website project**, created as a part of my cross-platform app development studies using **Html**, **CSS** and **JavaScript**. It showcases my interests and has an **about me** section.
 
 ## Features
 
