@@ -10,9 +10,9 @@ This is my **first website project**, created as a part of my cross-platform app
 
 **Responsive Image Galleries** that adapt to different sizes.
 
-**Hover Effects** Animated hover effects on images.
+**Hover Effects** on images.
 
-**Social Media Icons** Using **Font Awesome** for Github, Instagram and Pinterest.
+**Social Media Icons** using **Font Awesome** for Github, Instagram and Pinterest.
 
 **Smooth Scrolling** to each section of the page.
 
